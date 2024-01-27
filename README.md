@@ -1,2 +1,2 @@
 # Javascript-Tutorial
-Following Javascript in 1 Shot Tutorial by Chai aur Code 
+Following JavaScript in 1 Shot Tutorial by Chai aur Code 
